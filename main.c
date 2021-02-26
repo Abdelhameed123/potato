@@ -4,7 +4,7 @@
 void main()
 {
 int x = 10;
-printf("Type a number: ");
+printf("Type a number bro: ");
 scanf("%d",&x);
 printf("\n%d",x);
 
